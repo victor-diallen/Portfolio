@@ -2,4 +2,12 @@
 
 ****Regression R Project****
 
-Using a public dataset available on the website link https://data.mendeley.com/datasets/tb9yrptydn/2 containing information about electric cars and its attributes, a machine learning model was created to predict the energy consumption of electric cars alongside with previous data analysis.
+- Public dataset available on the website link https://data.mendeley.com/datasets/tb9yrptydn/2 containing information about electric cars and its attributes.
+- Prediction of energy consumption of electric cars.
+- Exploratory Analysis.
+- Data Visualization.
+- Neural nets.
+- Random Forest for both prediction and feature selection.
+- Support Vector Machines (SVM)
+
+
