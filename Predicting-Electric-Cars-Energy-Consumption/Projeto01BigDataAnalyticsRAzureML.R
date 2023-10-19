@@ -1,3 +1,5 @@
+### ---- Author: Victor Diallen ---- ###
+
 ### ---- Working Directory ---- ###
 setwd("C:/Users/Victor/Desktop/data_science_academy/formacao_cientista_de_dados/Big Data Analytics com R e Microsoft Azure Machine Learning/Projeto1")
 getwd()
