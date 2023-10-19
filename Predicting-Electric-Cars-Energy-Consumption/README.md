@@ -1,4 +1,4 @@
---------Exploratory Data Analysis and Machine Learning--------
+********Exploratory Data Analysis and Machine Learning********
 
 --------Regression R Project--------
 
