@@ -1,4 +1,4 @@
-********Natural Language Processing & Exploratory Data Analysis********
+********Natural Language Processing, Machine Learning & Exploratory Data Analysis********
 
 ****Python Project****
 
