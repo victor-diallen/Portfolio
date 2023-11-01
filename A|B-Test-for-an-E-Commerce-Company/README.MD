@@ -6,4 +6,4 @@
 - Data Visualization.
 - Shapiro-Wilk Test.
 - Hypothesis Test.
-- Mann-Wilker U Test.
+- Mann-Whitney U Test.
