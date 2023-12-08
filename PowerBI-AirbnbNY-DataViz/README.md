@@ -1,8 +1,15 @@
-**Data Analysis and Visualization with Power BI**
+**Data Analysis and Visualization**
 
-Airbnb is perhaps the biggest platform at the moment to search for places to stay when travelling. This project used a public dataset on Kaggle (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data) shows through data visualization some important and useful insights on how Airbnb works in the city of New York.
+**Power BI Project**
 
-Techniques and tools such as the following were used in this project:
+- Using a public dataset available on the website link https://www.muratkoklu.com/datasets/vtdhnd07.php containing information about tests using fire extinguishers. a machine learning model was built to predict if a fire will be extinguished or not, alongside with previous data analysis.
+- Predict if a fire will be extinguished or not. (Classification)
+- Exploratory Analysis.
+- Data Visualization.
+- Logistic Regression.
+- K Nearest Neighbours (KNN)
+- Random Forest for feature selection.
+- Support Vector Machines (SVM)
 
 - Power BI.
 - Data Analysis.
