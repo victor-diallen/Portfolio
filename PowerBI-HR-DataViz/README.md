@@ -2,7 +2,7 @@
 
 **Power BI Project**
 
--Power BI
+-Power BI.
 -Data Analysis.
 -Data Visualization.
 -Column Charts.
