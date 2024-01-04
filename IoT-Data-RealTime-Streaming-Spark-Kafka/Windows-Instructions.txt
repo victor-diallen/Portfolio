@@ -1,0 +1,36 @@
+Instructions for Windows
+
+1- Go to Kafka Website and download the version you want.
+
+2- Unzip the file.
+
+3- Open the terminal, go to the Kafka folder and execute the command below to initialize the Zookeeper (Kafka's cluster manager).
+
+bin/windows/zookeeper-server-start.bat config/zookeeper.properties
+
+4- Open another terminal, go to Kafka folder and execute the command below to initialize Kafka.
+
+bin/windows/kafka-server-start.bat config/server.properties
+
+5- Open another terminal, go to Kafka folder and execute the comand bellow to create a Kafka topic.
+
+bin/windows/kafka-topics.bat--create --topic victordiallen --bootstrap-server localhost:9092
+
+6- In the same terminal as the last one, execute the next command to describe the created topic.
+
+bin/windows/kafka-topics.bat --describe --topic victordiallen --bootstrap-server localhost:9092
+
+7- In the same terminal, execute the next command to produce the data streaming on Kafka (like a streaming producer).
+
+bin/windows/kafka-console-producer.bat --bootstrap-server localhost:9092 --topic victordiallen < ../sensors_data.txt
+
+8- In the same terminal, execute the next command to list the topic's content (like a streaming consumer).
+
+bin/windows/kafka-console-consumer.bat --topic victordiallen --from-beginning --bootstrap-server localhost:9092
+
+9- Press Ctrl+C at any moment to stop any of the windows. Keep them all open while executing the Step 3 for this project.
+
+
+# Step 3 - Apache Spark
+
+1- Execute the Jupyter Notebook for this project and cell after cell.
